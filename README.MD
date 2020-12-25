@@ -1,5 +1,7 @@
 # Jonathan, your friendly timezone robot. 🤖 🕰 
 
+CREDIT TO LINUS AND BEN!
+
 Ever tried to schedule a meeting with a distributed team? You've probably noticed that timezones are really really hard to talk about.
 
 Meet Jonathan, the solution to your remote scheduling woes.
